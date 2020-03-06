@@ -1,0 +1,49 @@
+body{
+  font-family: 'Nunito', sans-serif;
+}
+p{
+  color: #777;
+  font-size: 18px;
+}
+.c-yellow{
+  color: #FDE428;
+}
+.bg-yellow{
+  background-color: #FDE428;
+}
+.c-white{
+  color: white;
+}
+.c-blue{
+  color: #002E5B;
+}
+.bg-blue{
+  background-color: #002E5B;
+}
+.pt-50{
+  padding-top: 50px;
+}
+.bb-y{
+  border-bottom: 2px solid #FDE428;
+}
+.bb-blue{
+  border-bottom: 2px solid #002E5B;
+}
+.blue-btn{
+  border: 2px solid #002E5B;
+  color: #002E5B;
+  border-radius: 5px;
+  padding: 8px;
+}
+.blue-btn:hover{
+  background-color: #002E5B;
+  border: none;
+  color:#FDE428;
+}
+.i-round{
+  border: 1px solid #002E5B;
+  border-radius: 50%;
+  padding: 15px;
+  background: #002E5B;
+  color: wheat;
+}

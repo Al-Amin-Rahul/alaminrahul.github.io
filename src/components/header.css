@@ -1,0 +1,14 @@
+.header .navbar{
+    padding-left: 0;
+    padding-right: 0;
+}
+.header .navbar-text a{
+    padding:7px !important;
+}
+.header a.last{
+    padding-right: 0px !important;
+}
+.header a{
+    color: #002E5B;
+    font-weight: 600;
+}
