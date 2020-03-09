@@ -1,0 +1,7 @@
+.contact form .form-control{
+    border-radius: 99em;
+    border: 1px solid #002E5B;
+}
+.contact form .form-control:focus{
+    box-shadow: 0 0 0 0.2rem #FDE428;
+}
